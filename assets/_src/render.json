@@ -1,0 +1,100 @@
+{
+ "outDir": "..",
+ "brand": {
+  "name": "DevOra E‑commerce Suite",
+  "tagline": "One white-label Flutter codebase powering pet, toy, fashion and home-services brands — plus their admin app.",
+  "accent": "#FD7E15",
+  "accent2": "#4F46E5",
+  "logo": "devora_logo.png"
+ },
+ "images": [
+  {
+   "type": "banner",
+   "file": "banner.png",
+   "kicker": "Case Study · White-label commerce",
+   "screens": [
+    "D:/shaker-github/_store/ios_com.devora.alife/ios_shot_04.png",
+    "D:/shaker-github/_store/com.irtaah.devora/shot_01.png",
+    "D:/shaker-github/_store/com.devora.dinotoys/screen_02.png"
+   ],
+   "devices": [
+    "iphone",
+    "iphone",
+    "android"
+   ],
+   "subtitle": "One Flutter codebase → many branded stores, plus a store-owner admin app.",
+   "css": ".title{font-size:58px!important}",
+   "chips": [
+    "Flutter",
+    "Bloc / Cubit",
+    "White-label"
+   ]
+  },
+  {
+   "type": "html",
+   "file": "brands.png",
+   "width": 1600,
+   "height": 1080,
+   "css": ".grain:after{opacity:.025}",
+   "body": "<div class=\"grid-bg\"></div>\n<div style=\"position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;padding:54px 50px;gap:34px\">\n  <div style=\"display:flex;flex-direction:column;align-items:center;gap:12px\">\n    <div class=\"accent\" style=\"font-size:22px;font-weight:700;letter-spacing:.18em\">ONE CODEBASE → MANY BRANDS</div>\n    <div class=\"title\" style=\"font-size:52px\">One Flutter engine, re-skinned per client</div>\n  </div>\n  <div style=\"display:flex;gap:30px;align-items:flex-start\"><div style=\"display:flex;flex-direction:column;align-items:center;gap:26px\">\n      <div style=\"filter:drop-shadow(0 0 40px #FD7E1555)\"><div class=\"iphone\" style=\"--w:250px\"><div class=\"scr\"><div class=\"island\"></div><img src=\"file:///D:/shaker-github/_store/ios_com.devora.alife/ios_shot_04.png\"></div></div></div>\n      <div style=\"display:flex;align-items:center;gap:14px;width:330px;padding:14px 16px;border-radius:20px;background:#ffffff0d;border:1px solid #ffffff1f;border-top:4px solid #FD7E15\">\n        <img src=\"file:///D:/shaker-github/_store/com.devora.alife/icon.png\" style=\"width:58px;height:58px;border-radius:14px;background:#fff\">\n        <div style=\"display:flex;flex-direction:column;gap:3px;min-width:0\">\n          <div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:20px;white-space:nowrap\">Aleefie · أليفي</div>\n          <div style=\"font-size:15px;opacity:.75\">Pet supplies · Play + App Store</div>\n          <div style=\"font-family:Consolas,monospace;font-size:13px;opacity:.6\">com.devora.alife</div>\n        </div></div></div><div style=\"display:flex;flex-direction:column;align-items:center;gap:26px\">\n      <div style=\"filter:drop-shadow(0 0 40px #7CB34255)\"><div class=\"android\" style=\"--w:250px\"><div class=\"scr\"><div class=\"cam\"></div><img src=\"file:///D:/shaker-github/_store/com.devora.dinotoys/screen_02.png\"></div></div></div>\n      <div style=\"display:flex;align-items:center;gap:14px;width:330px;padding:14px 16px;border-radius:20px;background:#ffffff0d;border:1px solid #ffffff1f;border-top:4px solid #7CB342\">\n        <img src=\"file:///D:/shaker-github/_store/com.devora.dinotoys/icon.png\" style=\"width:58px;height:58px;border-radius:14px;background:#fff\">\n        <div style=\"display:flex;flex-direction:column;gap:3px;min-width:0\">\n          <div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:20px;white-space:nowrap\">Deno Store · دينو ستور</div>\n          <div style=\"font-size:15px;opacity:.75\">Kids toys · Google Play</div>\n          <div style=\"font-family:Consolas,monospace;font-size:13px;opacity:.6\">com.devora.dinotoys</div>\n        </div></div></div><div style=\"display:flex;flex-direction:column;align-items:center;gap:26px\">\n      <div style=\"filter:drop-shadow(0 0 40px #C6282855)\"><div class=\"android\" style=\"--w:250px\"><div class=\"scr\"><div class=\"cam\"></div><img src=\"file:///D:/shaker-github/_store/com.devora.starmart/shot_02.png\"></div></div></div>\n      <div style=\"display:flex;align-items:center;gap:14px;width:330px;padding:14px 16px;border-radius:20px;background:#ffffff0d;border:1px solid #ffffff1f;border-top:4px solid #C62828\">\n        <img src=\"file:///D:/shaker-github/_store/com.devora.starmart/icon.png\" style=\"width:58px;height:58px;border-radius:14px;background:#fff\">\n        <div style=\"display:flex;flex-direction:column;gap:3px;min-width:0\">\n          <div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:20px;white-space:nowrap\">StarMart · ستار مارت</div>\n          <div style=\"font-size:15px;opacity:.75\">Modest fashion · Google Play</div>\n          <div style=\"font-family:Consolas,monospace;font-size:13px;opacity:.6\">com.devora.starmart</div>\n        </div></div></div><div style=\"display:flex;flex-direction:column;align-items:center;gap:26px\">\n      <div style=\"filter:drop-shadow(0 0 40px #2E7D3255)\"><div class=\"iphone\" style=\"--w:250px\"><div class=\"scr\"><div class=\"island\"></div><img src=\"file:///D:/shaker-github/_store/com.irtaah.devora/shot_01.png\"></div></div></div>\n      <div style=\"display:flex;align-items:center;gap:14px;width:330px;padding:14px 16px;border-radius:20px;background:#ffffff0d;border:1px solid #ffffff1f;border-top:4px solid #2E7D32\">\n        <img src=\"file:///D:/shaker-github/_store/com.irtaah.devora/icon.png\" style=\"width:58px;height:58px;border-radius:14px;background:#fff\">\n        <div style=\"display:flex;flex-direction:column;gap:3px;min-width:0\">\n          <div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:20px;white-space:nowrap\">Irtaah · ارتاح</div>\n          <div style=\"font-size:15px;opacity:.75\">Home services · Google Play</div>\n          <div style=\"font-family:Consolas,monospace;font-size:13px;opacity:.6\">com.irtaah.devora</div>\n        </div></div></div></div>\n  <div style=\"display:flex;align-items:center;gap:16px;font-size:19px;opacity:.9;padding:12px 22px;border-radius:99px;background:#ffffff0d;border:1px solid #ffffff1f\">\n    <span>Also white-labelled for</span><img src=\"file:///D:/shaker-github/repos/devora-ecommerce-suite/assets/_src/logo_pets_with_admin.png\" style=\"height:52px;width:52px;object-fit:contain;border-radius:12px;background:#fff;padding:4px\"><img src=\"file:///D:/shaker-github/repos/devora-ecommerce-suite/assets/_src/logo_gorcery_with_admin.png\" style=\"height:52px;width:52px;object-fit:contain;border-radius:12px;background:#fff;padding:4px\"><img src=\"file:///D:/shaker-github/repos/devora-ecommerce-suite/assets/_src/logo_okaView.png\" style=\"height:52px;width:52px;object-fit:contain;border-radius:12px;background:#fff;padding:4px\"><img src=\"file:///D:/shaker-github/repos/devora-ecommerce-suite/assets/_src/logo_ElWaseq.png\" style=\"height:52px;width:52px;object-fit:contain;border-radius:12px;background:#fff;padding:4px\"><span>+ a shared store-owner admin app</span></div>\n</div>"
+  },
+  {
+   "type": "html",
+   "file": "white-label.png",
+   "width": 1600,
+   "height": 780,
+   "body": "<div class=\"grid-bg\"></div>\n<div style=\"position:absolute;inset:0;display:flex;flex-direction:column;padding:56px 70px;gap:36px\">\n <div><div class=\"accent\" style=\"font-size:22px;font-weight:700;letter-spacing:.14em\">SIGNATURE · WHITE-LABEL PIPELINE</div>\n <div class=\"title\" style=\"font-size:50px;margin-top:10px\">A new brand is a config change, not a fork</div></div>\n <div style=\"display:flex;align-items:center;gap:36px;flex:1\">\n  <div style=\"width:560px;display:flex;flex-direction:column;gap:10px;font-size:19px\">\n    <div style=\"font-size:18px;opacity:.7;margin-bottom:4px\">AppConstants + brand assets</div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">App name & copy</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">assets/languages/*.json</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Logo, icon & splash</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">flutter_launcher_icons</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Brand palette → theme</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">primary / accent colors</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Package / bundle id</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">change_app_package_name</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Firebase project</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">FCM · Crashlytics · Remote Config</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Content flags</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">AR / EN · inner categories</span></div><div style=\"display:flex;justify-content:space-between;gap:20px;padding:13px 18px;border-radius:14px;background:#ffffff0a;border:1px solid #ffffff17\"><b style=\"font-weight:600\">Allowed countries</b><span style=\"opacity:.6;font-family:Consolas,monospace;font-size:16px\">phone auth (e.g. IQ)</span></div></div>\n  <div style=\"display:flex;align-items:center;gap:18px\">\n    <div style=\"font-size:56px\" class=\"accent\">→</div>\n    <div style=\"padding:22px 26px;border-radius:22px;background:linear-gradient(135deg,#FD7E1533,#4F46E533);border:1px solid #ffffff2a;text-align:center;width:250px\">\n      <div style=\"font-weight:800;font-size:24px\">Shared core</div>\n      <div style=\"font-size:16px;opacity:.75;margin-top:8px;line-height:1.55\">Catalog · Cart · Checkout<br>Orders · Coupons · Shipping<br>Auth · Notifications<br>Role-based admin</div></div>\n    <div style=\"font-size:56px\" class=\"accent\">→</div></div>\n  <div style=\"display:flex;flex-direction:column;gap:14px;width:330px\"><div style=\"display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;background:#ffffff0d;border:1px solid #ffffff1f;border-left:4px solid #FD7E15\"><img src=\"file:///D:/shaker-github/_store/com.devora.alife/icon.png\" style=\"width:46px;height:46px;border-radius:12px;background:#fff\"><div><div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:18px\">Aleefie · أليفي</div><div style=\"font-size:14px;opacity:.65\">Pet supplies</div></div></div><div style=\"display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;background:#ffffff0d;border:1px solid #ffffff1f;border-left:4px solid #7CB342\"><img src=\"file:///D:/shaker-github/_store/com.devora.dinotoys/icon.png\" style=\"width:46px;height:46px;border-radius:12px;background:#fff\"><div><div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:18px\">Deno Store · دينو ستور</div><div style=\"font-size:14px;opacity:.65\">Kids toys</div></div></div><div style=\"display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;background:#ffffff0d;border:1px solid #ffffff1f;border-left:4px solid #C62828\"><img src=\"file:///D:/shaker-github/_store/com.devora.starmart/icon.png\" style=\"width:46px;height:46px;border-radius:12px;background:#fff\"><div><div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:18px\">StarMart · ستار مارت</div><div style=\"font-size:14px;opacity:.65\">Modest fashion</div></div></div><div style=\"display:flex;align-items:center;gap:14px;padding:12px 16px;border-radius:16px;background:#ffffff0d;border:1px solid #ffffff1f;border-left:4px solid #2E7D32\"><img src=\"file:///D:/shaker-github/_store/com.irtaah.devora/icon.png\" style=\"width:46px;height:46px;border-radius:12px;background:#fff\"><div><div style=\"font-family:'Readex Pro',Inter;font-weight:700;font-size:18px\">Irtaah · ارتاح</div><div style=\"font-size:14px;opacity:.65\">Home services</div></div></div></div>\n </div></div>"
+  },
+  {
+   "type": "gallery",
+   "file": "store-listings.png",
+   "title": "Same engine, two storefronts — Aleefie & Deno Store",
+   "device": "card",
+   "cardRatio": 2.17,
+   "cols": 6,
+   "screens": [
+    "D:/shaker-github/_store/com.devora.alife/shot_03.png",
+    "D:/shaker-github/_store/com.devora.alife/shot_04.png",
+    "D:/shaker-github/_store/com.devora.alife/shot_01.png",
+    "D:/shaker-github/_store/com.devora.dinotoys/shot_02.png",
+    "D:/shaker-github/_store/com.devora.dinotoys/shot_01.png",
+    "D:/shaker-github/_store/com.devora.dinotoys/shot_05.png"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "irtaah-screens.png",
+   "title": "Irtaah — the same core as a home-services marketplace",
+   "device": "iphone",
+   "cols": 5,
+   "screens": [
+    "D:/shaker-github/_store/com.irtaah.devora/shot_01.png",
+    "D:/shaker-github/_store/com.irtaah.devora/shot_02.png",
+    "D:/shaker-github/_store/com.irtaah.devora/shot_03.png",
+    "D:/shaker-github/_store/com.irtaah.devora/shot_04.png",
+    "D:/shaker-github/_store/com.irtaah.devora/shot_05.png"
+   ]
+  },
+  {
+   "type": "gallery",
+   "file": "customer-flows.png",
+   "title": "Customer flows — welcome, sign-in, empty states, home",
+   "device": "mixed",
+   "devices": [
+    "android",
+    "android",
+    "iphone",
+    "iphone",
+    "iphone"
+   ],
+   "cols": 5,
+   "screens": [
+    "D:/shaker-github/_store/com.devora.starmart/shot_02.png",
+    "D:/shaker-github/_store/com.devora.starmart/shot_03.png",
+    "D:/shaker-github/_store/ios_com.devora.alife/ios_shot_03.png",
+    "D:/shaker-github/_store/ios_com.devora.alife/ios_shot_01.png",
+    "D:/shaker-github/_store/ios_com.devora.alife/ios_shot_04.png"
+   ]
+  }
+ ]
+}

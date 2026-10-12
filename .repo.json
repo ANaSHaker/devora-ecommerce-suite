@@ -1,0 +1,17 @@
+{
+  "name": "devora-ecommerce-suite",
+  "description": "Case study: one white-label Flutter e-commerce codebase shipped as Aleefie, Deno Store, StarMart and Irtaah, plus a store-owner admin app. Bloc, Firebase, Socket.IO. One codebase, many brands.",
+  "topics": [
+    "flutter",
+    "case-study",
+    "white-label",
+    "ecommerce",
+    "bloc",
+    "firebase",
+    "socket-io",
+    "admin-dashboard",
+    "rtl",
+    "iraq"
+  ],
+  "homepage": "https://play.google.com/store/apps/details?id=com.devora.alife"
+}
